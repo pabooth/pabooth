@@ -1,4 +1,4 @@
-![Paul Booth — CTO, Crown Prosecution Service](./header.svg)
+![Paul Booth](./header.svg)
 
 &nbsp;
 
