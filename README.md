@@ -1,4 +1,4 @@
-![Paul Booth](./header.svg)
+![Paul Booth](./header.png)
 
 &nbsp;
 
