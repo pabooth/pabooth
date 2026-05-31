@@ -9,13 +9,13 @@ This is my personal GitHub - a workbench for side projects, experiments, and the
 
 &nbsp;
 
-`02` — **Disclaimer**
+`02` **Disclaimer**
 
 Nothing here is affiliated with, endorsed by, or representative of my current or any other employer. These are personal projects, built in personal time.
 
 &nbsp;
 
-`03` — **Projects**
+`03` **Projects**
 
 **[Mnemosyne](https://github.com/pabooth/mnemosyne)** &ensp; A technical content ingestion, categorisation and refining tool. Designed to improve and simplify technical documentation in line with the [Diataxis framework](https://diataxis.fr).
 
@@ -23,9 +23,9 @@ Nothing here is affiliated with, endorsed by, or representative of my current or
 
 &nbsp;
 
-`04` — **Find me**
+`04` **Find me**
 
-[LinkedIn ↗](https://www.linkedin.com/in/pabooth) 
+**[LinkedIn ↗](https://www.linkedin.com/in/pabooth)**
 
 [Blog ↗](https://grumpy.uk)
 
