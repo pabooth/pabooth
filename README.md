@@ -27,7 +27,10 @@ Nothing here is affiliated with, endorsed by, or representative of my current or
 
 **[LinkedIn ↗](https://www.linkedin.com/in/pabooth)**
 
-[Blog ↗](https://grumpy.uk)
+**[Blog ↗](https://grumpy.uk)**
 
 &nbsp;
-<sub><code>PGP · 9C1E 4FD8 7D75 6FEF BA0A  4590 E18C 2AE3 9BAE 3332</code></sub>
+`05` **PGP**
+
+<code>9C1E 4FD8 7D75 6FEF BA0A  4590 E18C 2AE3 9BAE 3332</code>
+&nbsp;
