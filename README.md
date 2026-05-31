@@ -27,7 +27,7 @@ Nothing here is affiliated with, endorsed by, or representative of my current or
 
 **[LinkedIn ↗](https://www.linkedin.com/in/pabooth)**
 
-**[Blog ↗](https://grumpy.uk)**
+**[Blog ↗](https://blog.grumpy.uk)**
 
 &nbsp;
 
