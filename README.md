@@ -17,9 +17,9 @@ Nothing here is affiliated with, endorsed by, or representative of my current or
 
 `03` **Projects**
 
-**[Mnemosyne](https://github.com/pabooth/mnemosyne)** &ensp; A technical content ingestion, categorisation and refining tool. Designed to improve and simplify technical documentation in line with the [Diataxis framework](https://diataxis.fr).
+**[Mnemosyne ↗](https://github.com/pabooth/mnemosyne)** &ensp; A technical content ingestion, categorisation and refining tool. Designed to improve and simplify technical documentation in line with the [Diataxis framework ↗](https://diataxis.fr).
 
-**[Subhoard](https://github.com/pabooth/subhoard)** &ensp; Extracts and archives Substack posts — public and paid - into email, markdown or PDF. Built for use in personal knowledge bases and offline reading.
+**[Subhoard ↗](https://github.com/pabooth/subhoard)** &ensp; Extracts and archives Substack posts — public and paid - into email, markdown or PDF. Built for use in personal knowledge bases and offline reading.
 
 &nbsp;
 
