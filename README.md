@@ -25,7 +25,7 @@ Nothing here is affiliated with, endorsed by, or representative of my current or
 `04` — **Find me**
 
 [LinkedIn ↗](https://www.linkedin.com/in/pabooth) 
-&ensp; 
+
 [Blog ↗](https://grumpy.uk)
 
 &nbsp;
