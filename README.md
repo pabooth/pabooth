@@ -24,7 +24,9 @@ Nothing here is affiliated with, endorsed by, or representative of my current or
 
 `04` — **Find me**
 
-[LinkedIn ↗](https://www.linkedin.com/in/pabooth) &ensp;·&ensp; [Blog ↗](https://grumpy.uk)
+[LinkedIn ↗](https://www.linkedin.com/in/pabooth) 
+&ensp; 
+[Blog ↗](https://grumpy.uk)
 
 &nbsp;
 <sub><code>PGP · 9C1E 4FD8 7D75 6FEF BA0A  4590 E18C 2AE3 9BAE 3332</code></sub>
