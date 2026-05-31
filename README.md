@@ -33,6 +33,6 @@ Nothing here is affiliated with, endorsed by, or representative of my current or
 
 `05` **PGP**
 
-<code>9C1E 4FD8 7D75 6FEF BA0A  4590 E18C 2AE3 9BAE 3332</code>
+9C1E 4FD8 7D75 6FEF BA0A  4590 E18C 2AE3 9BAE 3332(https://keys.openpgp.org/vks/v1/by-fingerprint/9C1E4FD87D756FEFBA0A4590E18C2AE39BAE3332)
 
 &nbsp;
