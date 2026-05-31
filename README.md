@@ -5,7 +5,7 @@
 `01` **About**
 
 
-This is my personal GitHub - a workbench for side projects, experiments, and the occasional tool built out of necessity. Some of it might be useful to you, feel free to move on if it isn't.
+This is my personal GitHub - a workbench for side projects, experiments, and the occasional tool built out of necessity. Most of it's private, some of it is public and might be useful to you. No guarantees, feel free to move on if it isn't.
 
 &nbsp;
 
