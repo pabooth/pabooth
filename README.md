@@ -21,7 +21,7 @@ Nothing here is affiliated with, endorsed by, or representative of my current or
 
 **[Subhoard ↗](https://github.com/pabooth/subhoard)** &ensp; Extracts and archives Substack posts (both public and paid) into email, markdown or PDF. Built for use in personal knowledge bases and offline reading.
 
-**[InBrief ↗](https://github.com/pabooth/inbrief)** &ensp; Digests email content into a single digest email over a configurable time period. Mainly designed for consolidating email newsletters into a single deduplicated daily email digest.
+**[InBrief ↗](https://github.com/pabooth/inbrief)** &ensp; Summarises email content into a single multi-subject email over a configurable time period. Mainly designed for consolidating email newsletters into a single deduplicated daily email digest.
 
 &nbsp;
 
